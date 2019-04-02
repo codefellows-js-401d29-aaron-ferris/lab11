@@ -7,13 +7,13 @@
 ### Collaberators: Jon Gentry, Greg Dukes, Cory Henderson, Alex White
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [Pull Request to Master](https://github.com/codefellows-js-401d29-aaron-ferris/lab11/pull/1)
+* [travis](https://travis-ci.com/codefellows-js-401d29-aaron-ferris/lab11)
+* [heroku deployment](https://apricot-crumble-93192.herokuapp.com)
+* I pushed my branch to heroku but it still doesn't show up. Not sure what to do otherwise.
+
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
 * [jsdoc](http://xyz.com) (All assignments)
 
 ### Modules Modifications
